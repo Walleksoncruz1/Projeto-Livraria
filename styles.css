@@ -6,7 +6,7 @@
 }
 
 header {
-    margin: 20px 0 80px 75px;
+    margin: 0 0 40px 70px;
 
 }
 
@@ -28,9 +28,9 @@ header {
 }
 
 .image {
-    width: 600px;
+    width: 550px;
     height: 460px;
-    margin-left: 350px;
+    margin-left: 270px;
     display: inline-block;
     
 }
@@ -44,9 +44,9 @@ main {
 
 h1 {
     font-family: 'Righteous', sans-serif;
-    font-weight: 900;
+    font-weight: 700;
     font-size: 80px;
-    line-height: 80px;
+    line-height: 70px;
     color: #464646;
     width: 500px;
 }
@@ -54,11 +54,11 @@ h1 {
 p {
     font-weight: 400;
     font-size: 24px;
-    line-height: 29px;
+    line-height: 25px;
     color: #848484;
-    width: 550px;
-    margin-top: 32px;
-    margin-bottom: 65px;
+    width: 500px;
+    margin-top: 28px;
+    margin-bottom: 39px;
 }
 
 .button-main {
